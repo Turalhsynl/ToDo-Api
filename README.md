@@ -7,13 +7,16 @@ A simple REST API for managing personal tasks. Built with Go and Gin framework. 
 ## 🚀 How to Run the Project
 
 ### 1. Clone repository
-```bash
+
 git clone https://github.com/your-username/task-tracker.git
 cd task-tracker
+
 ### 2.Install dependencies
 go mod tidy
+
 ### 3. Run the application
 go run main.go
+
 ### Server will start on:
 http://localhost:8080```
 
