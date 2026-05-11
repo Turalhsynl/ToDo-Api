@@ -18,7 +18,7 @@ go mod tidy
 go run main.go
 
 ### Server will start on:
-http://localhost:8080```
+http://localhost:8080
 
 ⚙️ Technology Choices
 Go (Gin Framework) – chosen for its simplicity, performance, and fast development of REST APIs.
